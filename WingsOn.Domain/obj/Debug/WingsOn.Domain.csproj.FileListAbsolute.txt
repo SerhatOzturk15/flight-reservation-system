@@ -1,5 +1,0 @@
-C:\Users\MONSTER\Desktop\travix\WingsOn.Domain\bin\Debug\WingsOn.Domain.dll
-C:\Users\MONSTER\Desktop\travix\WingsOn.Domain\bin\Debug\WingsOn.Domain.pdb
-C:\Users\MONSTER\Desktop\travix\WingsOn.Domain\obj\Debug\WingsOn.Domain.csprojResolveAssemblyReference.cache
-C:\Users\MONSTER\Desktop\travix\WingsOn.Domain\obj\Debug\WingsOn.Domain.dll
-C:\Users\MONSTER\Desktop\travix\WingsOn.Domain\obj\Debug\WingsOn.Domain.pdb
